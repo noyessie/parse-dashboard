@@ -105,6 +105,7 @@ PARSE_DASHBOARD_USER_PASSWORD: "pass"
 PARSE_DASHBOARD_SSL_KEY: "sslKey"
 PARSE_DASHBOARD_SSL_CERT: "sslCert"
 PARSE_DASHBOARD_CONFIG: undefined // Only for reference, it must not exist
+PARSE_DASHBOARD_ALLOW_INSECURE_HTTP: "0" // enable remote parse dashboard to run under http ( not secure )
 ```
 
 ## Managing Multiple Apps
